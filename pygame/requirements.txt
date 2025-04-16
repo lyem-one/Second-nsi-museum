@@ -1,8 +1,0 @@
-threading
-sys
-pygame
-pygame.locals
-pydub
-pydub.playback
-cv2
-ffmpeg
